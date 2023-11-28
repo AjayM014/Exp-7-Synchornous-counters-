@@ -53,9 +53,13 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 
 i)upcounter
+
+
 ![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/8191ba70-75f3-4821-937a-0a47e7533d56)
 
 ii)downcounter
+
+
 ![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/f55881c1-945f-4a14-a7df-39c90588bc3d)
 
 /*
