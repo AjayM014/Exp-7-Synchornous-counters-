@@ -51,10 +51,17 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
+
+i)upcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/8191ba70-75f3-4821-937a-0a47e7533d56)
+
+ii)downcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/f55881c1-945f-4a14-a7df-39c90588bc3d)
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: AJAY M
+RegisterNumber:  23013424
 */
 
 
@@ -65,21 +72,34 @@ RegisterNumber:
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 
+i)upcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/adf66871-df68-4696-b008-5c8d71424674)
+
+ii)downcounter
 
 
-
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/1954ac3a-d334-4809-8d54-cf86aa2b4e20)
 
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+i)upcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/58bee7c1-3735-4e29-b49d-cdc71c6127ab)
 
+ii)downcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/4bd1c060-f7cd-4721-9ed8-8ca0120fb3e6)
 
 
 
 
 ### TRUTH TABLE 
+i)upcounter
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/8a79ee7e-83ae-48a9-807b-e54cec13a9c3)
 
+ii)dowmcounter
+
+![image](https://github.com/AjayM014/Exp-7-Synchornous-counters-/assets/150011759/9ef3f81c-d9ce-450c-92eb-a07071e42582)
 
 
 
